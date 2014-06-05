@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd5f4515-1610-473d-b2cc-da0c1497391b" name="Default" comment="" />
+    <ignored path="winepair.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="winepair" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="19" selection-start="952" selection-end="952" vertical-scroll-proportion="0.59659094" vertical-offset="675" max-vertical-offset="4170">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cabernet-sauvignon.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cabernet-sauvignon.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="38" selection-start="876" selection-end="876" vertical-scroll-proportion="-0.0" vertical-offset="420" max-vertical-offset="690">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resling.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resling.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="36" selection-start="863" selection-end="863" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="syrah.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/syrah.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="34" selection-start="859" selection-end="859" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zinfindel.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zinfindel.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="38" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pinot-grigio.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinot-grigio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="39" selection-start="872" selection-end="872" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="675">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hard-cheese-winelist.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hard-cheese-winelist.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="48" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.2083334" vertical-offset="16" max-vertical-offset="870">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pinot-nior.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pinot-nior.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="39" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="660">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chardonnay.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chardonnay.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="39" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="moscato.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/moscato.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="36" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="765">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wine2.html" />
+        <option value="$PROJECT_DIR$/wine3.html" />
+        <option value="$PROJECT_DIR$/wine1.html" />
+        <option value="$PROJECT_DIR$/css/merlot.html" />
+        <option value="$PROJECT_DIR$/css/fonts/stylesheet.css" />
+        <option value="$PROJECT_DIR$/css/zinfindel.html" />
+        <option value="$PROJECT_DIR$/css/chardonnay.html" />
+        <option value="$PROJECT_DIR$/css/sauvignon-blanc.html" />
+        <option value="$PROJECT_DIR$/css/pinot-nior.html" />
+        <option value="$PROJECT_DIR$/css/resling.html" />
+        <option value="$PROJECT_DIR$/css/pinot-grigio.html" />
+        <option value="$PROJECT_DIR$/css/moscato.html" />
+        <option value="$PROJECT_DIR$/poultry-winelist.html" />
+        <option value="$PROJECT_DIR$/pork-winelist.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/shellfish-winelist.html" />
+        <option value="$PROJECT_DIR$/.idea/soft-cheese.html" />
+        <option value="$PROJECT_DIR$/css/cabernet-sauvignon.html" />
+        <option value="$PROJECT_DIR$/.idea/hard-cheese.html" />
+        <option value="$PROJECT_DIR$/fish-winelist.html" />
+        <option value="$PROJECT_DIR$/hard-cheese.html" />
+        <option value="$PROJECT_DIR$/soft-cheese.html" />
+        <option value="$PROJECT_DIR$/vegetables.html" />
+        <option value="$PROJECT_DIR$/dessert.html" />
+        <option value="$PROJECT_DIR$/beef-winelist.html" />
+        <option value="$PROJECT_DIR$/wine.html" />
+        <option value="$PROJECT_DIR$/meat.html" />
+        <option value="$PROJECT_DIR$/seafood.html" />
+        <option value="$PROJECT_DIR$/cheese.html" />
+        <option value="$PROJECT_DIR$/menu.html" />
+        <option value="$PROJECT_DIR$/merlot.html" />
+        <option value="$PROJECT_DIR$/zinfindel.html" />
+        <option value="$PROJECT_DIR$/syrah.html" />
+        <option value="$PROJECT_DIR$/sauvignon-blanc.html" />
+        <option value="$PROJECT_DIR$/resling.html" />
+        <option value="$PROJECT_DIR$/cabernet-sauvignon.html" />
+        <option value="$PROJECT_DIR$/chardonnay.html" />
+        <option value="$PROJECT_DIR$/pinot-grigio.html" />
+        <option value="$PROJECT_DIR$/pinot-nior.html" />
+        <option value="$PROJECT_DIR$/moscato.html" />
+        <option value="$PROJECT_DIR$/hard-cheese-winelist.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="688" />
+    <option name="height" value="774" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="SearchEverywhereHistory" value="{" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../new-map" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="database.main" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd5f4515-1610-473d-b2cc-da0c1497391b" name="Default" comment="" />
+      <created>1398886051676</created>
+      <updated>1398886051676</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="688" height="774" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3745541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/css/fonts/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="3" selection-start="566" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merlot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="48" selection-start="141" selection-end="141" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="0" selection-start="1984" selection-end="1984" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seafood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="18" selection-start="0" selection-end="1622" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="0" selection-start="1882" selection-end="1882" vertical-scroll-proportion="0.0" vertical-offset="825" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1228" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheese.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="0" selection-start="1129" selection-end="1129" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merlot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="0" selection-start="0" selection-end="1984" vertical-scroll-proportion="0.0" vertical-offset="630" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seafood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="18" selection-start="0" selection-end="1622" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="80" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="23" selection-start="2193" selection-end="2193" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2535" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="89" selection-end="630" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="795">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="7" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merlot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="0" selection-start="681" selection-end="1695" vertical-scroll-proportion="0.0" vertical-offset="570" max-vertical-offset="855" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="80" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="16" selection-start="1236" selection-end="1236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1545" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="42" selection-start="58" selection-end="58" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="14" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="16" selection-start="1236" selection-end="1236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1545" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="14" selection-start="779" selection-end="779" vertical-scroll-proportion="0.0" vertical-offset="495" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/fonts/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="3" selection-start="566" selection-end="600" vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/soft-cheese.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/hard-cheese.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="7" selection-start="0" selection-end="1181" vertical-scroll-proportion="-21.875" vertical-offset="105" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dessert.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="126" selection-start="266" selection-end="266" vertical-scroll-proportion="-2.8333333" vertical-offset="22" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vegetables-winelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="4" selection-start="661" selection-end="742" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="735" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shellfish-winelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="48" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="675" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soft-cheese-winelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="79" selection-end="79" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="720" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poultry-winelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="48" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pork-winelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="59" selection-start="139" selection-end="139" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fish-winelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="23" selection-start="761" selection-end="761" vertical-scroll-proportion="-6.4583335" vertical-offset="220" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/seafood.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="111" selection-start="1646" selection-end="1646" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cheese.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="110" selection-start="1513" selection-end="1513" vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="825" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/beef-winelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="21" selection-start="759" selection-end="759" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="705" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="57" selection-start="1575" selection-end="1575" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="975" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="142" selection-start="1999" selection-end="1999" vertical-scroll-proportion="-18.333334" vertical-offset="130" max-vertical-offset="810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/merlot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="51" selection-start="901" selection-end="901" vertical-scroll-proportion="-14.375" vertical-offset="90" max-vertical-offset="795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sauvignon-blanc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="35" selection-start="870" selection-end="870" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cabernet-sauvignon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="38" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zinfindel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="38" selection-start="867" selection-end="867" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinot-nior.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="39" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="660">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chardonnay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="39" selection-start="869" selection-end="869" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/moscato.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="36" selection-start="862" selection-end="862" vertical-scroll-proportion="0.0" vertical-offset="61" max-vertical-offset="765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/syrah.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="34" selection-start="859" selection-end="859" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resling.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="36" selection-start="863" selection-end="863" vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pinot-grigio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="39" selection-start="872" selection-end="872" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hard-cheese-winelist.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="48" selection-start="78" selection-end="78" vertical-scroll-proportion="-1.2083334" vertical-offset="16" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="71" selection-start="413" selection-end="413" vertical-scroll-proportion="0.022058824" vertical-offset="195" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="55" selection-start="190" selection-end="190" vertical-scroll-proportion="0.022058824" vertical-offset="75" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="19" selection-start="952" selection-end="952" vertical-scroll-proportion="0.59659094" vertical-offset="675" max-vertical-offset="4170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
